@@ -13,7 +13,7 @@ on:
       DEVICE_TREE:
         description: 'Link de tu Device Tree'
         required: true
-        default: 'https://github.com/IsaacCodesStuff/android_device_samsung_a06_fox'
+        default: 'https://github.com/asus1m415da/android_device_samsung_a06_fox'
       DEVICE_TREE_BRANCH:
         description: 'Rama de tu Device Tree (ej: fox_12.1 o main)'
         required: true
